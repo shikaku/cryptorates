@@ -1,0 +1,12 @@
+.logo {
+  font-variant: petite-caps;
+  font-size: 20px;
+}
+
+.page {
+  margin: 0 10%;
+}
+
+.page__logo, .page__body, .page__title {
+  margin: 20px 0;
+}

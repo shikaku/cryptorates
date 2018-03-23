@@ -1,0 +1,15 @@
+.coin-list-with-rates {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.coin-list-with-rates__item {
+  border-top: 1px dotted #555;
+  padding: 10px 0;
+}
+
+.coin-list-with-rates__link {
+  display: block;
+  color: steelblue;
+}

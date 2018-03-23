@@ -1,0 +1,15 @@
+.coin-with-rate__icon {
+  max-width: 32px;
+  max-height: 32px;
+  display: inline;
+}
+.coin-with-rate__name {
+  color: #333;
+  display: inline-block;
+  width: 200px;
+  margin-left: 10px;
+}
+.coin-with-rate__rate {
+  font-size: 14px;
+  display: inline;
+}
